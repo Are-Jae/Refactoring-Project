@@ -1,0 +1,103 @@
+.body{font-family:Georgia, serif ;}
+
+h2,.div{
+    background-color:#b5651d;
+    color:white;
+    
+}
+
+  h4, ol{ 
+    text-align: left;
+
+    font-weight: bolder;
+    font-size: 50px;
+    border-style: dotted;
+    border-width: auto;
+    border-color: transparent;
+    display:inline-flex;
+    list-style: none;
+    background-color:#ea7e5d;
+    color:black;
+    margin: auto;
+    
+    
+    
+    }
+
+   
+   
+   
+    
+    
+    
+  
+
+
+   
+    div{
+    text-align:center;    
+    font-family: Georgia, serif;
+    font-weight: bold;
+    font-size-adjust: 100px;
+    
+    }
+
+    h2{
+    text-align: center;
+    font-family: Georgia, serif;
+    font-weight: bold;
+    font-size: 50px;
+    }
+
+    
+
+    
+    img{
+    height:300px;
+    width: 400px;
+    padding-left: 80px;
+    padding-right: 80px;
+    border: 5px solid;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 200px;
+    margin-left: 200px;
+    box-shadow: 2px 4px;
+    background-color: #fafafa;
+    text-align: center;
+    float: inline-start;
+    border-color: #b8860b;
+    font-size: 20px;
+  
+   }
+
+   figure{
+    text-align: center;
+    background-color:#ffdab9;
+    font-weight: bold;
+    font-size: 25px;
+    color:#b8860b
+  
+  }
+   
+
+    fieldset{
+     background-color: tan; 
+     font-size: 20px;
+     
+    }
+
+  section{
+    font-weight:bold;
+    font-size: 20px;
+  }
+
+
+
+  
+  
+    
+    footer{
+    text-align: center;
+    background-color: beige;
+    }
